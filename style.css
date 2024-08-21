@@ -1,0 +1,16 @@
+h1{
+
+    text-align: center;
+}
+body
+{
+    background-color: lightskyblue;
+}
+.form
+{
+    border: 3px solid rgb(25, 99, 109);
+    border-width: 5px;
+      padding-left: 540px;
+    padding-top: 100x;
+ 
+}
